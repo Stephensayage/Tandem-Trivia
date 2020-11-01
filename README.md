@@ -1,6 +1,6 @@
 ## Deployed Site
 
-[Link to site](tandem-trivia.surge.sh)
+tandem-trivia.surge.sh
 
 ## Goals
 
